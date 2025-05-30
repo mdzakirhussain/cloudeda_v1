@@ -1,0 +1,25 @@
+# Read the technology library for mapping
+read_liberty -lib sg13g2_stdcell_typ_1p20V_25C.lib
+
+# Read the Verilog design
+read_verilog ha.v
+
+# Set the top module name
+hierarchy -top ha
+
+# Synthesize for the target library
+synth -top ha
+
+# Flatten the design before mapping
+flatten
+
+# Map to standard cells
+#dfflibmap -liberty sg13g2_stdcell_typ_1p20V_25C.lib
+abc -liberty sg13g2_stdcell_typ_1p20V_25C.lib
+
+clean
+
+# Write synthesized netlist
+write_verilog -noattr synth_out.v
+write_json synth_out.json
+show -format svg -prefix ha

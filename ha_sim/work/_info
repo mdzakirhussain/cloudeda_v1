@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/workspaces/cloudeda_v1/ha_sim
+vha
+Z1 !s110 1748627745
+!i10b 1
+!s100 >oDK=hXIadfjOKB:@LVUg2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]KlVDlh@VIG=UzUDZ;_H03
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1748627738
+Z4 8ha.v
+Z5 Fha.v
+!i122 1
+Z6 L0 1 9
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1748627745.000000
+Z9 !s107 tb_ha.v|ha.v|
+Z10 !s90 ha.v|tb_ha.v|
+!i113 1
+Z11 tCvgOpt 0
+vhalf_adder
+!s110 1748627701
+!i10b 1
+!s100 JN3HomQ[5Q7gNkbSF:EIW0
+R2
+I?6XUkgVcTS]SVNHAIJM6]1
+R3
+R0
+w1748626956
+R4
+R5
+!i122 0
+R6
+R7
+r1
+!s85 0
+31
+!s108 1748627700.000000
+R9
+R10
+!i113 1
+R11
+vtb_ha
+R1
+!i10b 1
+!s100 K4`MZ:G>^VC7AkOQiHYWI1
+R2
+IgX1G6d1m>IgQI^e^ez^6a2
+R3
+R0
+w1748627043
+8tb_ha.v
+Ftb_ha.v
+!i122 1
+L0 3 41
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
