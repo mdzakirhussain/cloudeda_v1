@@ -23,3 +23,4 @@ clean
 write_verilog -noattr synth_out.v
 write_json synth_out.json
 show -format svg -prefix ha
+tee -o ha.rpt stat -liberty sg13g2_stdcell_typ_1p20V_25C.lib
