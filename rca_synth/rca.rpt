@@ -1,0 +1,31 @@
+
+10. Printing statistics.
+
+=== rca ===
+
+   Number of wires:                 36
+   Number of wire bits:             65
+   Number of public wires:           6
+   Number of public wire bits:      35
+   Number of ports:                  5
+   Number of port bits:             26
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 39
+     sg13g2_a21o_1                   2
+     sg13g2_a21oi_1                  2
+     sg13g2_and2_1                   3
+     sg13g2_and3_1                   1
+     sg13g2_inv_1                    4
+     sg13g2_nand2_1                  3
+     sg13g2_nor2b_1                  4
+     sg13g2_nor3_1                   1
+     sg13g2_o21ai_1                  4
+     sg13g2_or2_1                    1
+     sg13g2_xnor2_1                  8
+     sg13g2_xor2_1                   6
+
+   Chip area for module '\rca': 420.940800
+     of which used for sequential elements: 0.000000 (0.00%)
+

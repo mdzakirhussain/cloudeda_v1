@@ -1,0 +1,5 @@
+read_liberty sg13g2_stdcell_typ_1p20V_25C.lib
+read_verilog synth_out.v
+link_design rca
+read_sdc rca.sdc
+report_checks
