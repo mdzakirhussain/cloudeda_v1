@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/workspaces/cloudeda_v1/rca_sim
+vrca
+Z0 !s110 1748661799
+!i10b 1
+!s100 n3fA8=@2?n>m::@>aQ84k2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Inn]TGYh@Y0K5P`KC5^HPG1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/workspaces/cloudeda_v1/rca_modelsim
+w1748655045
+8rca.v
+Frca.v
+!i122 2
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1748661799.000000
+!s107 tb_rca.v|rca.v|
+Z6 !s90 rca.v|tb_rca.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_rca
+R0
+!i10b 1
+!s100 @oSAWR`kI`WG07IDF7W;j0
+R1
+IbLGHTc:5B`UbMbWIfZh;D2
+R2
+R3
+w1748660795
+8tb_rca.v
+Ftb_rca.v
+!i122 2
+L0 3 42
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_rca.v|rca.v|
+R6
+!i113 1
+R7

@@ -1,0 +1,13 @@
+# vsim -c tb_rca 
+# Start time: 03:23:24 on May 31,2025
+# Loading work.tb_rca
+# Loading work.rca
+#                    0a=0000 b=0000 cin=0 cout=0 sum=0000
+#                   10a=0011 b=0101 cin=0 cout=0 sum=1000
+#                   20a=1111 b=0001 cin=1 cout=1 sum=0001
+#                   30a=1010 b=0101 cin=0 cout=0 sum=1111
+#                   40a=1111 b=1111 cin=1 cout=1 sum=1111
+# ** Note: $finish    : tb_rca.v(41)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_rca
+# End time: 03:23:29 on May 31,2025, Elapsed time: 0:00:05
+# Errors: 0, Warnings: 0
